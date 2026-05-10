@@ -17,3 +17,4 @@ Add validation check
 Clean up codebase
 Improve function naming
 Add basic tests
+Update constructor params
